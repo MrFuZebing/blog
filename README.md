@@ -1,4 +1,4 @@
-# 付泽彬的博客 :link: https://MrFuZebing.github.io/blog.mrfuzebing.github.io 
+# 付泽彬的博客 :link: https://MrFuZebing.github.io/blog
 ### :page_facing_up: [2](https://MrFuZebing.github.io/blog.mrfuzebing.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 24 
